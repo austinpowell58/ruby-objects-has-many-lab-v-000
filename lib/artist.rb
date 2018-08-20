@@ -10,4 +10,6 @@ class Artist
     @songs
   end 
   
+  def add_song()
+  
 end 
